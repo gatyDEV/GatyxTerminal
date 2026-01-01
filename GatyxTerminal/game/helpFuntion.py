@@ -1,0 +1,2 @@
+#helpFuntion.py
+help_say = "|/help --> Guia |/cal --> Calculadora|\n|/create <type:dir,bloc,zip> --> Crear Archivos|\n|/bot --> Habla Con un Bot random|\n|/game_1 --> Un juego de piedra, papel, tijera|\n|/tabla --> tabla de multiplicar|\n|/clear --> limpiar terminal|"

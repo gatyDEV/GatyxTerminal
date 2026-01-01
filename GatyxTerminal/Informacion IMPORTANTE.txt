@@ -1,0 +1,55 @@
+//////////////SPANISH/////////////////////////
+Una terminal personalizada con varios programas muy útiles. Ejemplos:
+
+    *Un bot divertido {TRUCO}
+    *Calculadora básica y tablas de multiplicar
+    *Juegos
+
+También contiene muy buena documentación.
+Se actualizará periódicamente. Para usarla, debes ejecutar el archivo .exe incluido.
+
+Creador: Gaty
+Todo: Gaty
+Programador: Gaty
+Fecha de lanzamiento: 30/12/2025
+Versión: 1.0 v
+Hecho en: Python
+Bibliotecas externas: Colorama y más
+
+Nota del creador:
+    Me gusta esta primera versión de mi terminal. Ya no necesitas tener Python instalado.
+    Solo tienes que ejecutar el archivo .exe incluido. Me gusta mucho este proyecto; me divertí programándolo.
+    Muchas gracias a todos los que tienen la oportunidad de usarlo; será súper útil.
+    Adiós :)
+----------------------------
+IMPORTANTE:
+DENTRO DE LA CARPETA DIST ESTA EL EJECUTABLE
+NO VAYAS A TOCAR NADA QUE NO CONOSES EL .EXE ESTA DENTRO DE LA CARPETA DIST
+----------------------------
+//////////////ENGLISH/////////////////////////
+A custom terminal containing several very useful programs. Examples:
+    *A fun bot {TRICK}
+    *Basic calculator and multiplication tables
+    *Games
+
+It also contains very good documentation.
+It will be updated from time to time. To use it, you must run the included .exe file.
+
+Creator: Gaty
+Everything: Gaty
+Programmer: Gaty
+Release Date: 12/30/2025
+Version: 1.0 v
+Made in: Python
+External Libraries: Colorama and more
+
+Creator's Note:
+    I like this first version of my terminal. You no longer need to have Python installed.
+    You just have to run the included .exe file. And I really like this project; I had fun programming it.
+    Thank you very much to everyone who has the opportunity to use it; it will be super useful.
+    Goodbye :)
+----------------------------
+IMPORTANT:
+  THE .EXE FILE IS INSIDE THE DIST. FOLDER.
+  DO NOT TOUCH ANYTHING YOU DON'T UNFAMILIARIZE. THE .EXE FILE IS INSIDE THE DIST. FOLDER.
+----------------------------
